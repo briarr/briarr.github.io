@@ -1,0 +1,65 @@
+body{
+    background-image:url(images/IMG_7942.JPG);
+    background-position-y: -650px;
+    }
+    
+    .cams {
+        width: 20%;
+    }
+    
+    .top{
+        width: 20%;
+    }
+    
+    .oil{
+        width: 20%;
+        
+    }
+    
+    .car{
+        position: relative;
+        
+        width:20%
+    
+    }
+    
+    
+    .speed3{
+        color: white;
+        font-weight: bold;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
+
+    .mazda {
+        background-color:#ffffff;
+        border-radius:28px;
+        border:3px solid #ffffff;
+        display:inline-block;
+        cursor:pointer;
+        color:#000000;
+        font-family:Trebuchet MS;
+        font-size:19px;
+        font-style:italic;
+        padding:16px 31px;
+        text-decoration:none;
+        position: fixed;
+        right:300px;
+        bottom: 575px;
+    }
+
+    .jeep {
+        background-color:#ffffff;
+        border-radius:28px;
+        border:3px solid #ffffff;
+        display:inline-block;
+        cursor:pointer;
+        color:#000000;
+        font-family:Trebuchet MS;
+        font-size:19px;
+        font-style:italic;
+        padding:16px 31px;
+        text-decoration:none;
+        position: fixed;
+        right:300px;
+        bottom: 575px;
+    }

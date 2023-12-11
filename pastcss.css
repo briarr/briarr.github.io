@@ -1,0 +1,31 @@
+body{
+background-image:url(images/IMG_7942.JPG);
+background-position-y: -650px;
+}
+
+.cams {
+    width: 20%;
+}
+
+.top{
+    width: 20%;
+}
+
+.oil{
+    width: 20%;
+    
+}
+
+.car{
+    position: relative;
+    height: 379px;
+    width:35%
+
+}
+
+
+.speed3{
+    color: white;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
